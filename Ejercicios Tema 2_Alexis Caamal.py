@@ -85,7 +85,7 @@ for resultados7 in resulta7:
 print("---------------------------------------------")
 print("9. Encuentra de Url’s")
 
-x4 = r"[Ww]+\w[.]\w+[.]\w+"
+x4 = r"(https?:\/\/+\w+[.]\w+[.]\w+)"
 resulta8 = re.findall(x4,txt)
 
 for resultados8 in resulta8:
