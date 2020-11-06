@@ -7,7 +7,7 @@ La dirección IP es un conjunto de números que identifica, de manera lógica y 
 Un número de teléfono es una secuencia de dígitos utilizada para identificar una línea telefónica dentro de una red telefónica conmutada. El número contiene la información necesaria para identificar el punto final de la llamada algunos ejemplos son; 983 112 3453, 987 154 7372, 986 145 5657, 987 165 4342, 987 154 3435, 876 345 5657 solo por mencionar algunos
 La hora es una unidad de tiempo que se corresponde con la vigésima cuarta parte de un día solar medio. Se utiliza para el tiempo civil y comprende 60 minutos o 3600 segundos, aunque pequeñas irregularidades en la rotación de la Tierra hacen que sean necesarios ajustes están 04:30 pm, 05:30 pm, 12:00 pm, 06:30 pm entre otros
 Correos electrónicos como; maria@gmail.com, alexispeshoso@gmail.com, russelrenion@gmail.com, eduardo173@gmail.com
-Ejemplos de URLs: www.google.com, www.red.com, www.futbolmundial.com, www.stormy.com, www.blackwidow.com, entre otros 
+Ejemplos de URLs: htpps://www.google.com, https://www.red.com, https://www.futbolmundial.com, https://www.stormy.com, https://www.blackwidow.com, entre otros 
 Códigos postales 77121, 98765, 56465, 97543, 67423, 87632"""
 
 x = r"[A-Za-záéíóú]{7,}"
